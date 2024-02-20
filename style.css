@@ -1,0 +1,60 @@
+
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    height: 300vh;
+}
+header{
+    background-image: url(./img/banner.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+
+.hero-content{
+    padding-top: 17vw;
+    color: #800080;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.card i{
+    height: 150px ;
+    width: 150px ;
+    font-weight: bold;
+}
+
+.portfolio .card{
+    height: 350px;
+    box-shadow: 1px 1px 10px gray;
+}
+.portfolio .card img{
+height: 60%;
+object-fit: cover;
+}
+.social-icons{
+    gap: 10px;
+}
+.social-icons i{
+    background-color: #000;
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    color: #fff;
+    display: flex;
+    align-items: center;justify-content: center;
+}
+
+
+.staff .card img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin:auto;
+    border: 8px solid rgb(147, 145, 145) !important;
+}
+.bug-tofix{object-position: bottom;
+}
