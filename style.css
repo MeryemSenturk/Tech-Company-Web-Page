@@ -58,3 +58,18 @@ object-fit: cover;
 }
 .bug-tofix{object-position: bottom;
 }
+
+
+.references img{
+    width: 180px;
+    height: 100px;
+}
+
+.contact{
+    background-image: url(./img/map.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    color: #fff;
+    height: 70vh;
+}
