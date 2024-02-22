@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "first_repo",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5502
+  }
+}
